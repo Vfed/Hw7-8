@@ -7,7 +7,7 @@ namespace Hw8
     {
         static void Main(string[] args)
         {
-            Hotel univer = new Hotel("California",5);
+            Hotel hotel = new Hotel("California",5);
         }
     }
 }
